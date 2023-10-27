@@ -1,7 +1,8 @@
-[![MasterHead](https://drive.google.com/file/d/1eok_ryZe69nOZmO01oNXuwR3tGYRoWTf/view?usp=sharing)
+![MasterHead](https://drive.google.com/uc?id=1eok_ryZe69nOZmO01oNXuwR3tGYRoWTf)
+
 <h1 align="center">Hi 👋, I'm Anoj Dangampola</h1>
-<h3 align="center">IT undergraduate | video editor|Sri Lanka</h3>
-<img align="right" alt="Coding" width="100" height="100" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">IT undergraduate | video editor | Sri Lanka</h3>
+<img align="right" alt="Coding" width="200" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anoj2000&label=Profile%20views&color=0e75b6&style=flat" alt="anoj2000" /> </p>
 
