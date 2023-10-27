@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/uc?id=1eok_ryZe69nOZmO01oNXuwR3tGYRoWTf)
+![MasterHead](https://drive.google.com/file/d/18R0wKOJz36G_QexCBj1sHrVvYzv5nQaC/view?usp=sharing)
 
 <h1 align="center">Hi 👋, I'm Anoj Dangampola</h1>
 <h3 align="center">IT undergraduate | video editor | Sri Lanka</h3>
