@@ -7,8 +7,7 @@
 <h3 align="left">GitHub Trophies 🏆:</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anoj2000&theme=radical" alt="Anoj2000" /></a> </p>
-
-<img align="right" alt"Coding" width"200" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Java** **C++**
 - 📫 How to reach me **anojdangampola000@gmail.com**
