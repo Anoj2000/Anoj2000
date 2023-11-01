@@ -76,9 +76,9 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoj2000&langs_count=8&theme=radical" alt=Anoj2000 />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoj2000&langs_count=8&theme=radical" alt=Anoj2000 />
 
-<p>&nbsp;<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=Anoj2000&show_icons=true&locale=en&theme=radical" alt="Anoj2000" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Anoj2000&show_icons=true&locale=en&theme=radical" alt="Anoj2000" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anoj2000&theme=radical" alt="Anoj2000" /></p>
 
