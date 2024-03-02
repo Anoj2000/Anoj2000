@@ -61,9 +61,11 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anoj2000&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Anoj2000&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
+<h3>My Contributions Graph:</h3>
+
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Anoj2000/Anoj2000/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+    alt="Contribution" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
