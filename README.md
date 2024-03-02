@@ -1,15 +1,16 @@
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Anoj Dangampola</h1>
-<h3 align="center">IT undergraduate | video editor|Sri Lanka</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anoj2000&label=Profile%20views&color=0e75b6&style=flat" alt="Anoj2000" /> </p>
+<h3 align="center">IT undergraduate | Full Stack Softwarer Developer | Sri Lanka</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Anoj2000&label=Profile%20views&color=0e75b6&style=flat" alt="Anoj2000" /> </p>
 
 <h3 align="left">GitHub Trophies 🏆:</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anoj2000&theme=radical" alt="Anoj2000" /></a> </p>
 <img align="right" alt="Coding" width="300" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Java** **MERN**
+- 🌱 I’m currently learning **Java**/**MERN**
+- 💬 Ask me about **C++/Java/Python**
 - 📫 How to reach me **anojdangampola000@gmail.com**
 - 📝 I regularly write articles on **https://medium.com/me/design**
 - ⚡ Fun fact **I am funny 😊**
@@ -26,7 +27,7 @@
   
 <a href="https://twitter.com/@ADangampola " target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="@ADangampola " height="30" width="40" /></a><a href="https://linkedin.com/in/Anoj Dangampola" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Anoj Dangampola" height="30" width="40" /></a><a href="https://fb.com/Anoj Dangampola" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Anoj Dangampola" height="30" width="40" /></a><a href="https://www.hackerrank.com/anojdangampola01" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="anojdangampola01" height="30" width="40" /></a><a href="https://stackoverflow.com/users/anoj dangampola" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="anoj dangampola" height="30" width="40" /></a><a href="https://instagram.com/anoj_dangampola" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="anoj_dangampola" height="30" width="40" /></a></p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:#💻Tech Stack:</h3>
 <p align="left">
   
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
@@ -54,14 +55,15 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/header_logo.svg" alt="React Native" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
-<div style="width: 100%; padding: 20px; text-align: center;">
-  <img style="margin-bottom: 10px;" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoj2000&langs_count=8&theme=radical" alt="Anoj2000" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Anoj2000&show_icons=true&locale=en&theme=radical" alt="Anoj2000" />
-</div>
+<h3 align="left">Github stats:</h3>
+
+| ![Anoj's github stats](https://github-readme-stats.vercel.app/api?username=Anoj2000&show_icons=true&theme=tokyonight) | ![Anoj GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anoj2000&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anoj2000&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Anoj2000&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anoj2000&theme=radical" alt="Anoj2000" />
+  <img  src="https://raw.githubusercontent.com/Anoj2000/Anoj2000/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
