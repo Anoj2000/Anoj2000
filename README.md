@@ -77,4 +77,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Anoj2000&theme=github-dark"/>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Anoj2000"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Anoj2000" /></a><a href="https://ko-fi.com/Anoj2000"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Anoj2000" /></a></p><br><br>
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
