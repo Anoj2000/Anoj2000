@@ -55,9 +55,9 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<div>
-  <p align="left"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoj2000&langs_count=8&theme=radical" alt="Anoj2000" /></p>
-  <p align="right"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anoj2000&show_icons=true&locale=en&theme=radical" alt="Anoj2000" /></p>
+<div style="width: 100%; padding: 20px; text-align: center;">
+  <img style="margin-bottom: 10px;" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoj2000&langs_count=8&theme=radical" alt="Anoj2000" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Anoj2000&show_icons=true&locale=en&theme=radical" alt="Anoj2000" />
 </div>
 
 <p align="center">
